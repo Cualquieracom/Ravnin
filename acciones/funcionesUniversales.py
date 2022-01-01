@@ -22,8 +22,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 try:
-  import aminofix
-  amino = aminofix
+  import amino
+  amino = amino
 except:
   import amino
 
